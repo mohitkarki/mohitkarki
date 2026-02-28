@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohit Singh Karki
-**A passionate Developer || Flutter developer || Ai/ML **
+**A passionate Developer || Flutter Developer || Ai/ML **
 
 Email Me 👉 ✉️ **mhtkarki03@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** For Collaboration/Project or Anyth
 - 🌱 **I’m currently learning:** Deep learning concepts
 - 👯 **I’m looking to collaborate on:** Computer vision
 - 🤔 **I’m looking for job:** As a developer
-- 💬 **Ask me about:** Collaboration
+- 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love building projects that turn ideas into real-world solutions.
 

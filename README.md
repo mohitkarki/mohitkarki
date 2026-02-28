@@ -91,5 +91,5 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** for collaboration or projects 😊
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohitkarki&icon=0&color=0" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=mohitkarki&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>>

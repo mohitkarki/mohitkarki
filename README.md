@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** For Collaboration/Project or Anyth
 - 👯 **I’m looking to collaborate on:** Computer vision
 - 🤔 **I’m looking for job:** As a developer
 - 💬 **Ask me about:** Collaboration
-- 📫 **How to reach me:** mhtkarki03@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love building projects that turn ideas into real-world solutions.
 

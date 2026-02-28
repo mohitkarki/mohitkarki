@@ -54,15 +54,7 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** for collaboration or projects 😊
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitkarki&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohitkarki&theme=dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkarki&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=mohitkarki&theme=dark&hide_border=false" />
 </p>
 
 ---

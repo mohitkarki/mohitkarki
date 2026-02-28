@@ -31,16 +31,12 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** For Collaboration/Project or Anyth
 ![](https://nirzak-streak-stats.vercel.app/?user=mohitkarki&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkarki&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitkarki&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
-</p>>
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitkarki&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkarki&theme=radical" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

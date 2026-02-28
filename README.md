@@ -54,23 +54,16 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** for collaboration or projects 😊
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitkarki&theme=dark&show_icons=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=mohitkarki&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitkarki&show_icons=true&theme=dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohitkarki&theme=dark&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=mohitkarki&theme=dark&cache_seconds=1800" />
 </p>
 
----
-
-<!-- Trophy service currently paused -->
-<!--
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitkarki&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkarki&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
--->
 
 ---
 
@@ -92,4 +85,4 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** for collaboration or projects 😊
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitkarki&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>>
+</p>

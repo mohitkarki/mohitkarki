@@ -55,6 +55,9 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** for collaboration or projects 😊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitkarki&theme=dark&show_icons=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohitkarki&theme=dark&hide_border=false" />
 </p>
 

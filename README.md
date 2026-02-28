@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohit Singh Karki
-**A passionate Developer || Flutter Developer || Ai/ML **
+** A passionate Developer || Flutter Developer || Ai/ML **
 
 Email Me 👉 ✉️ **mhtkarki03@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

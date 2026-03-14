@@ -67,14 +67,6 @@ Email Me 👉 ✉️ **mhtkarki03@gmail.com** for collaboration or projects 😊
 
 ---
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mohitkarki&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitkarki&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>

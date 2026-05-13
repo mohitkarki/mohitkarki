@@ -8,9 +8,7 @@
 
 Email Me 👉 ✉️ **mhtkarki03@gmail.com** for collaboration or projects 😊
 
-- 🔭 **Currently working on:** ML Projects  
-- 🌱 **Currently learning:** Deep Learning concepts  
-- 👯 **Looking to collaborate on:** Computer Vision projects  
+- 🔭 **Currently working on:** ML Projects   
 - 💼 **Open to:** Internship & Developer opportunities  
 - 💬 **Ask me about:** Collaboration & Tech Support  
 - 😄 **Pronouns:** He/Him  
